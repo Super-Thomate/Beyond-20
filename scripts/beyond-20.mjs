@@ -3,5 +3,5 @@
 
 // Increase max level for Player Actor
 Hooks.once("init", () => {
-    CONFIG.DND5E.maxLevel = 50;
-})
+  CONFIG.DND5E.maxLevel = 50;
+});

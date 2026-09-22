@@ -25,9 +25,7 @@
       }
     ]
   },
-  "esmodules": [
-    "scripts/beyond-20.mjs"
-  ],
+  "esmodules": ["scripts/beyond-20.mjs"],
   "license": "LICENSE",
   "readme": "README.md",
   "url": "https://github.com/Super-Thomate/Beyond-20",

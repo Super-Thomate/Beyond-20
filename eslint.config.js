@@ -28,12 +28,12 @@ export default [
         FormApplication: "readonly",
         DialogV2: "readonly",
         renderTemplate: "readonly",
-        loadTemplates: "readonly"
-      }
+        loadTemplates: "readonly",
+      },
     },
     rules: {
       "no-unused-vars": "warn",
-      "no-console": "off"
-    }
-  }
+      "no-console": "off",
+    },
+  },
 ];
