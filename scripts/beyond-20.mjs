@@ -1,7 +1,7 @@
 // Script to manage advancement beyond level 20 in DnD 5E.
 // Based on Past Level 20 (5e Variant Rule) https://www.dandwiki.com/wiki/Past_Level_20_(5e_Variant_Rule)
+import "./constants.mjs";
 
-const MAX_LEVEL = 50;
 const EXTRA_EXP_LEVELS = [
   410000, 470000, 530000, 600000, 670000, 750000, 830000, 920000, 1010000, 1110000, 1210000,
   1320000, 1430000, 1550000, 1670000, 1800000, 1930000, 2070000, 2210000, 2360000, 2510000, 2670000,
