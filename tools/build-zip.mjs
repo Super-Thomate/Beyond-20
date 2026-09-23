@@ -1,17 +1,15 @@
 import fs from "node:fs";
-import archiver from "archiver";
+import { ZipArchive } from "archiver";
 
 const OUTPUT = "module.zip";
 const FILES = ["module.json", "LICENSE", "README.md"];
 const DIRS = ["scripts", "packs/beyond20-features", "packs/beyond20-journal"];
 
 const output = fs.createWriteStream(OUTPUT);
-const archive = archiver("zip", { zlib: { level: 9 } });
+const archive = new ZipArchive({ zlib: { level: 9 } });
 
 output.on("close", () => console.log(`${OUTPUT} written (${archive.pointer()} bytes)`));
-archive.on("error", (err) => {
-  throw err;
-});
+archive.on("error", (err) => { throw err; });
 
 archive.pipe(output);
 for (const file of FILES) {
