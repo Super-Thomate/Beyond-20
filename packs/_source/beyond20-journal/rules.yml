@@ -25,18 +25,7 @@ pages:
           </ul>
           Finally their stats go to a minimum of 20(if above in the stat no change); they can see the portfolio of other gods and gain truesight within 30 feet(stacks with existing truesight) and receive one portfolio and one ability fitting that portfolio(for example because demigods can have the same portfolios as other gods, magic would get one ability on par with a level 12 spell) according to the DM.
         </p>
-      markdown: ""
-    _id: nZt4IM1OZQDGmmAY
-    sort: 100000
-    _key: "!journal.pages!K0SZivTDzqnRvJq0.nZt4IM1OZQDGmmAY"
-  - name: Experience Points
-    type: text
-    title:
-      show: true
-      level: 1
-    text:
-      format: 1
-      content: >-
+        <h2>Experience points beyond level 20</h2>
         <table>
           <thead>
             <tr>
@@ -168,13 +157,26 @@ pages:
           </tbody>
         </table>
       markdown: ""
+    _id: nZt4IM1OZQDGmmAY
+    sort: 100000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.nZt4IM1OZQDGmmAY"
+  - name: Spell slots
+    type: text
+    title:
+      show: true
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <p>TODO: explicit here spell slots gain beyond level 20 for full caster, half caster and third chaster.</p>
+      markdown: ""
     _id: Cro1qgaXxJb3lxP4
     sort: 200000
     _key: "!journal.pages!K0SZivTDzqnRvJq0.Cro1qgaXxJb3lxP4"
   - name: Artificer
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -199,7 +201,7 @@ pages:
   - name: Barbarian
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -217,7 +219,7 @@ pages:
   - name: Bard
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -238,7 +240,7 @@ pages:
   - name: Cleric
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -262,7 +264,7 @@ pages:
   - name: Druid
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -282,7 +284,7 @@ pages:
   - name: Fighter
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -305,7 +307,7 @@ pages:
   - name: Monk
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -328,7 +330,7 @@ pages:
   - name: Paladin
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -364,7 +366,7 @@ pages:
   - name: Ranger
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -388,7 +390,7 @@ pages:
   - name: Rogue
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -412,7 +414,7 @@ pages:
   - name: Sorcerer
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -434,7 +436,7 @@ pages:
   - name: Warlock
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
@@ -460,7 +462,7 @@ pages:
   - name: Wizard
     type: text
     title:
-      show: false
+      show: true
       level: 1
     text:
       format: 1
