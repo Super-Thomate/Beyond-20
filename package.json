@@ -7,11 +7,14 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "format": "prettier --write .",
-    "build:packs": "node tools/build-packs.mjs"
+    "build:packs": "node tools/build-packs.mjs",
+    "build:zip": "node tools/build-zip.mjs",
+    "release": "npm run build:packs && npm run build:zip"
   },
   "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^3.0.4",
     "@eslint/js": "^10.0.1",
+    "@foundryvtt/foundryvtt-cli": "^3.0.4",
+    "archiver": "^8.0.0",
     "eslint": "^10.11.0",
     "eslint-config-prettier": "^10.1.8",
     "globals": "^17.12.0",
