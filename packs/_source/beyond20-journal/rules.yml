@@ -168,9 +168,9 @@ pages:
           </tbody>
         </table>
       markdown: ""
-    _id: Dr7e0S1pmHEx4mTF
+    _id: Cro1qgaXxJb3lxP4
     sort: 200000
-    _key: "!journal.pages!K0SZivTDzqnRvJq0.Dr7e0S1pmHEx4mTF"
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.Cro1qgaXxJb3lxP4"
   - name: Artificer
     type: text
     title:
@@ -181,7 +181,6 @@ pages:
       content: >-
         <h2>Additional Spells and Spell Slots</h2>
         <p>You also gain additional cantrips at level 24 (5), level 28 (6), level 38 (7), and level 42 (8).</p>
-        <p>Due to some limitations, you currently gain spell slots of level 6, 7, 8 and 9, following the general table of spellslots and dividing your level by 2 to determine the number and level of spell slots you have.</p>
         <h2>Infusion and Infused Item Improvement</h2>
         <p>You get another known infusion at level 23, 27, 31, 35, 39, 43, and 47</p>
         <p>You get another infused item at level 21, 26, 31, 36, 41, and 46.</p>
@@ -195,149 +194,300 @@ pages:
         At level 30 whenever you use the Flash of Genius feature you double your intelligence modifier. This changes to triple at level 50.
       markdown: ""
     _id: jZa2Kx4KQFUnCMRw
-    sort: 100000
+    sort: 300000
     _key: "!journal.pages!K0SZivTDzqnRvJq0.jZa2Kx4KQFUnCMRw"
+  - name: Barbarian
     type: text
     title:
-      show: true
+      show: false
       level: 1
     text:
       format: 1
       content: >-
-        <table>
-          <thead>
-            <tr>
-              <th>Level</th>
-              <th>Total Required</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>21</td>
-              <td>410,000</td>
-            </tr>
-            <tr>
-              <td>22</td>
-              <td>470,000</td>
-            </tr>
-            <tr>
-              <td>23</td>
-              <td>530,000</td>
-            </tr>
-            <tr>
-              <td>24</td>
-              <td>600,000</td>
-            </tr>
-            <tr>
-              <td>25</td>
-              <td>670,000</td>
-            </tr>
-            <tr>
-              <td>26</td>
-              <td>750,000</td>
-            </tr>
-            <tr>
-              <td>27</td>
-              <td>830,000</td>
-            </tr>
-            <tr>
-              <td>28</td>
-              <td>920,000</td>
-            </tr>
-            <tr>
-              <td>29</td>
-              <td>1,010,000</td>
-            </tr>
-            <tr>
-              <td>30</td>
-              <td>1,110,000</td>
-            </tr>
-            <tr>
-              <td>31</td>
-              <td>1,210,000</td>
-            </tr>
-            <tr>
-              <td>32</td>
-              <td>1,320,000</td>
-            </tr>
-            <tr>
-              <td>33</td>
-              <td>1,430,000</td>
-            </tr>
-            <tr>
-              <td>34</td>
-              <td>1,550,000</td>
-            </tr>
-            <tr>
-              <td>35</td>
-              <td>1,670,000</td>
-            </tr>
-            <tr>
-              <td>36</td>
-              <td>1,800,000</td>
-            </tr>
-            <tr>
-              <td>37</td>
-              <td>1,930,000</td>
-            </tr>
-            <tr>
-              <td>38</td>
-              <td>2,070,000</td>
-            </tr>
-            <tr>
-              <td>39</td>
-              <td>2,210,000</td>
-            </tr>
-            <tr>
-              <td>40</td>
-              <td>2,360,000</td>
-            </tr>
-            <tr>
-              <td>41</td>
-              <td>2,510,000</td>
-            </tr>
-            <tr>
-              <td>42</td>
-              <td>2,670,000</td>
-            </tr>
-            <tr>
-              <td>43</td>
-              <td>2,830,000</td>
-            </tr>
-            <tr>
-              <td>44</td>
-              <td>3,000,000</td>
-            </tr>
-            <tr>
-              <td>45</td>
-              <td>3,170,000</td>
-            </tr>
-            <tr>
-              <td>46</td>
-              <td>3,350,000</td>
-            </tr>
-            <tr>
-              <td>47</td>
-              <td>3,530,000</td>
-            </tr>
-            <tr>
-              <td>48</td>
-              <td>3,720,000</td>
-            </tr>
-            <tr>
-              <td>49</td>
-              <td>3,910,000</td>
-            </tr>
-            <tr>
-              <td>50</td>
-              <td>4,110,000</td>
-            </tr>
-          </tbody>
-        </table>
+        <h2>Critical Hits</h2>
+        <p>At level 22, critical hits land on a roll of 19 - 20. Additionally, at level 26, critical hits land on a roll of 18 - 20. Starting at level 50 you ALWAYS crit.</p>
+        <h2>Strength and Constitution Score Increases</h2>
+        <p>Starting at level 32 and every 4th level onward, the maximum for your Strength and Constitution score increases by 2, and both scores are increased by 2.</p>
+        <h2>Additional Rage Damage</h2>
+        <p>Your rage damage increases to +5 at level 27, +6 at level 34, +7 at level 41, and +8 at level 48.</p>
       markdown: ""
-    _id: Dr7e0S1pmHEx4mTF
-    sort: 300000
-    _key: "!journal.pages!K0SZivTDzqnRvJq0.Dr7e0S1pmHEx4mTF"
+    _id: Kn4dpnslbR9RMEOl
+    sort: 400000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.Kn4dpnslbR9RMEOl"
+  - name: Bard
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Spells and Spell Slots</h2>
+        <p>At level 21, you gan an additional spell. You gain one more spell every 2nd level (level 23, 25, 27 etc.).
+        You also gain additional cantrips at level 21 (5) and level 45 (6).</p>
+        <h2>Magical Secrets</h2>
+        <p>At level 26, you can learn four spells from any class. You can learn an additional four spells from any class at level 40.</p>
+        <h2>Charisma Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Charisma scores increase by 2, and your Charisma score also increases by 2.</p>
+        <h2>Bardic Inspiration Improvement</h2>
+        <p>At level 30, a creature who uses your bardic inspiration dice gains advantage on the rolls. Bardic inspiration increases to 1d20 at level 22, 2d12 at level 30, 2d20 at level 38, 3d12 at level 46, and 3d20 at level 50.</p>
+      markdown: ""
+    _id: I8A1zPgpICyghtAf
+    sort: 500000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.I8A1zPgpICyghtAf"
+  - name: Cleric
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Spells and Spell Slots</h2>
+        <p>You gain additional cantrips at level 21 (6) and level 45 (7).</p>
+        <h2>Extra Divinity Points</h2>
+        <p>At level 22, you gain an extra divinity point to use per day, again another extra divinity point at level 30, a third extra point at 38, and a 4th extra at level 46.</p>
+        <h2>Divine Intervention Increase</h2>
+        <p>At level 26, after a long rest, roll 1d4 to determine the amount of divine interventions granted for the next 7 days.</p>
+        <h2>Wisdom Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Wisdom scores increase by 2, and your Wisdom score also increases by 2.</p>
+        <h2>Additional Domain</h2>
+        <p>At level 30, select a domain other than the one you started with. You gain access to the spells granted by that domain. Choose a spell from each line of the domain's spell table.</p>
+        <h2>Holy Power Feature</h2>
+        <p>At level 50 your deity bestows upon you the strength of a permanent holy aura spell requiring no concentration or spell slot from you. Additionally, when an affected creature succeeds on a saving throw made against a spell or magical effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throws. Also any creature of your choice within the aura regenerates 10 HP when starting their turn and any fiend or undead blinded by the aura is blinded for 5 turns otherwise the spell works the same. You also get to cast Greater Restoration (as if cast as a level 9 spell)at will and Mass Heal or True Resurrection or Power Word:Heal once per long rest requiring no spell slot.</p>
+      markdown: ""
+    _id: nEOWPFErVN6TMODC
+    sort: 600000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.nEOWPFErVN6TMODC"
+  - name: Druid
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Spells and Spell Slots</h2>
+        <p>You gain additional cantrips at level 21 (5) and level 45 (6).</p>
+        <h2>Plant and Beast Communication Improvement</h2>
+        <p>At level 22, you can always communicate with beasts and plants. At level 30, all beasts and plants regard you as a god, either willingly serving or at the least, refusing to attack you.</p>
+        <h2>Wild Shape Improvement</h2>
+        <p>At level 26, the max CR of your wild shape increases by 1 (land = CR 2, moon = CR 9), it increases by 1 again every 3 levels. level 29: (land = CR 3, moon = CR 13), again at level 32 (land = CR 4, moon = CR 15), ect. Starting at level 50 the max CR of your wild shape becomes 30.</p>
+        <h2>Wisdom Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Wisdom scores increase by 2, and your Wisdom score also increases by 2.</p>
+      markdown: ""
+    _id: CRcCECUMy4kwBzBt
+    sort: 700000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.CRcCECUMy4kwBzBt"
+  - name: Fighter
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Indomitable and Second Wind Charges</h2>
+        <p>At level 22, you gain an additional charge of indomitable (4) and second wind. At level 32, you gain an additional charge of action surge (3) and second wind (3). At level 47, you gain an additional charge of action surge (4).</p>
+        <h2>Strength and Dexterity Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Strength and Dexterity scores increase by 2, and each increases by 2.</p>
+        <h2>Additional Extra Attacks</h2>
+        <p>At level 30, you gain an additional extra attack (4). At level 40, you gain an additional extra attack (5). At level 50, you gain an additional extra attack (6).</p>
+        <h2>Damage Immunities and Resistances</h2>
+        <p>At 38th level, you gain resistance to bludgeoning, piercing, and slashing damage.</p>
+        <p>At 42nd level, you gain resistance to 3 of the following damage types, your choice: acid, cold, fire, lightning, thunder.</p>
+        <p>At 46th level, you gain resistance to 3 of the following damage types, your choice: force, necrotic, poison, psychic or radiant.</p>
+        <p>At 50th level: Choose one of the damage types you chose at 42nd and 46th levels. Your resistance becomes immunity for those 2 damage types.</p>
+      markdown: ""
+    _id: 93ow6rkeQ64mQFgW
+    sort: 800000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.93ow6rkeQ64mQFgW"
+  - name: Monk
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Martial Arts and Ki Point Increase</h2>
+        <p>At level 21, your martial arts die increases to 1d12, then 2d8 at level 29, 3d6 at level 33, 2d10 at level 37, and 2d12 at level 45. Additionally at level 21, your maximum number of ki points is 21, and increase by 1 per monk level.</p>
+        <h2>Perfect Self and Empty Body Improvement</h2>
+        <p>At level 22, the effects of perfect self and empty body are doubled (the number of Ki points required isn't doubled). Additionally at level 46, the effects of perfect self and empty body are quadrupled (the number of Ki points required is doubled).</p>
+        <h2>Movement Speed Increase</h2>
+        <p>At level 24, Movement speed increases to 35 feet, and you can walk and stand on walls, ceilings, and liquid without falling. Your movement speed increases by an additional 5 feet every 4th level (level 28, 32 etc).</p>
+        <p>Additionally at level 42, jumping distance is doubled, you can dash using a bonus action, and your unarmed attacks reach increases by 5 feet.</p>
+        <h2>Dexterity and Wisdom Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Dexterity and Wisdom scores increase by 2, and each increases by 2.</p>
+        <h2>Ki Point Improvement</h2>
+        <p>At level 30, whenever you use an action that requires spending ki points, roll 1d4. If the result is a 3 or a 4, cut the ki cost of that action in half, rounding up. Additionally, at level 50 You have no max ki points and when recovering all ki from sleep you get ki = your old max multiplied by 2.</p>
+      markdown: ""
+    _id: cbudFX2CexYrw9c8
+    sort: 900000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.cbudFX2CexYrw9c8"
+  - name: Paladin
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Spell Slots</h2>
+        <p>
+          <ul>
+            <li>Level 22 - 1 2nd level spell slot.</li>
+            <li>Level 30 - 1 3rd level spell slot.</li>
+            <li>Level 34 - 1 4th level spell slot.</li>
+            <li>Level 42 - 1 5th level spell slot.</li>
+            <li>Level 50 - 1 5th level spell slot.</li>
+          </ul>
+        </p>
+        <h2>Aura of Protection Improvement</h2>
+        <p>At level 22, the range of your auras of protection and courage increase to 100 feet.</p>
+        <h2>Healing Aura Feature</h2>
+        <p>At level 30, all friendly creatures within 50 feet of you and you are healed a number of hit points at the start of their turn equal to your Charisma modifier (minimum 1). This also works on downed and unconscious allies.</p>
+        <h2>Charisma Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Charisma scores increase by 2, and your Charisma score also increases by 2.</p>
+        <h2>Sacred Oath Improvement</h2>
+        <p><You can channel divinity up to three times before having to rest at level 30, and four times at level 40./p>
+        <h2>Improved Divine Smite Improvement</h2>
+        <p>The damage of your improved divine smite feature Increases by 2d8 at 21st level, and every 5 levels after that. (5d8 at 26th, 7d8 at 31st, 9d8 at 36th, 11d8 at 41st, and 12d8 at 46th.)</p>
+        <h2>Improved Extra Attack</h2>
+        <p>At level 46, you gain an additional attack per attack action.</p>
+        <h2>Holy Power Feature</h2>
+        <p>At level 50 your Oath bestows upon you the strength of a permanent holy aura spell requiring no concentration or spell slot from you. Additionally, when an affected creature succeeds on a saving throw made against a spell or effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throws. Also any enemy creature that starts its turn in this area or enters it takes 10 radiant damage and any fiend or undead blinded by the aura is blinded for 5 turns otherwise the spell works the same. You also get to cast Greater Restoration (as if cast as a level 9 spell) at will and Mass Heal or True Resurrection or Power Word:Heal once per long rest requiring no spell slot.</p>
+      markdown: ""
+    _id: 4poePjLRDo8TAtco
+    sort: 1000000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.4poePjLRDo8TAtco"
+  - name: Ranger
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Spells and Spell Slots</h2>
+        <p>At level 21, you gain an additional spell. You gain one more spell every 2nd level (level 23, 25, 27 etc.).</p>
+        <h2>Feral Senses Increase</h2>
+        <p>At level 22, feral senses increase to 60 feet. At level 35, feral senses increases to 100 feet.</p>
+        <h2>Hide in Plain Sight Improvement</h2>
+        <p>At level 26, while camouflaged, you can move at half speed and remain camouflaged. At level 34, you can camouflage yourself using your whole turn (6 seconds) instead of 1 minute. At level 38, you can take either an action or a bonus action and stay camouflaged, but not both.</p>
+        <h2>Dexterity Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Dexterity scores increase by 2, and your Dexterity score also increases by 2.</p>
+        <h2>Favored Enemy or Natural Explorer Improvement</h2>
+        <p>At level 30, choose either favored enemy or natural explorer. If you chose favored enemy, all known types of monsters (except for humanoids) are treated as favored enemies. If you chose natural explorer, all terrain types are treated as favored terrain. You gain the other choice at level 42.</p>
+        <h2>Critical Strike</h2>
+        <p>At level 30, if you havent attacked yet this turn, you can focus on a single attack, and sacrifice your extra attack to choose to turn your attack into a critical hit once per long rest. At level 50 all your attacks become criticals, without any sacrifice necessary.</p>
+      markdown: ""
+    _id: sqYttv5juTbPryt7
+    sort: 1100000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.sqYttv5juTbPryt7"
+  - name: Rogue
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Blindsense Increase</h2>
+        <p>Your blindsense increases to 20 feet at level 22, 30 feet at level 30, 40 feet at level 35, 50 feet at level 40, and 60 feet at level 50.</p>
+        <h2>Sneak Attack Increase</h2>
+        <p>Your sneak attack die increases to 6d12 at level 23. It then increases by an additional d12 every 4th level (7d12 at level 27, 8d12 at level 31 etc.).</p>
+        <h2>Dexterity Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Dexterity scores increase by 2, and your Dexterity score also increases by 2.</p>
+        <h2>Stroke of Luck Improvement</h2>
+        <p>You can use Stroke of luck twice per short or long rest at level 26, and three times a per short or long rest at level 40.At level 30, if you use the stroke of luck to turn a missed attack roll into a hit, you can treat it as a Sneak Attack. </p>
+        <h2>Additional Expertise</h2>
+        <p>At level 34 you can chose and additional 2 skills you have proficiency in or one skill and your proficiency in thieves tools and double your proficiency modifier, If you do not have any skills without expertise gain proficiency in a skill of your choice You gain another additional expertise at level 44</p>
+        <h2>Assasination Feature</h2>
+        <p>At level 50 you may cast Power Word Kill twice per Long Rest requiring no spell slot and needing no components. It just happens.</p>
+      markdown: ""
+    _id: U7gkLggM7zLOHKyd
+    sort: 1200000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.U7gkLggM7zLOHKyd"
+  - name: Sorcerer
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Spells and Spell Slots</h2>
+        <p>At level 21, you gain an additional spell. You gain one more spell every 2nd level (level 23, 25, 27 etc.). You also gain additional cantrips at level 21 (7) and level 45 (8).</p>
+        <h2>Sorcery Point Improvement</h2>
+        <p>At level 21, your maximum amount of sorcery points is equal to your sorcerer level.</p>
+        <p>At level 26, when you roll for initiative, you regain half expended sorcery points (rounded up).</p>
+        <h2>Charisma Score Improvements:</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Charisma scores increase by 2, and your Charisma score also increases by 2.</p>
+        <h2>Sorcery Point Spell Slot Improvement:</h2>
+        <p>Additionally at level 21, you can now create 1st level spell slots for 2 points, 2nd level for 3 points, 3rd level for 4 points, 4th level for 5 points, 5th level for 6 points, 6th level for 7 points, 7th level for 8 points, 8th level for 9 points, and 9th level for 10 points.</p>
+        <p>At level 50 you may now convert spell slots of lower level into higher ones. Example: converting two level one spell slots into one level 2 spell slot, the spell slots don't have to be of the same level and can work down or up, you can also convert something like a sixth level spell slot and a third level spell slot to a ninth level spell slot, or convert a ninth level spell slot into a sixth and a third, or a seventh and second, ect.</p>
+      markdown: ""
+    _id: 0gFj1OanMNOqxNop
+    sort: 1300000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.0gFj1OanMNOqxNop"
+  - name: Warlock
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Spells and Spell Slots:</h2>
+        <p>At level 21, you gain an additional spell. You gain one more spell every 2nd level (level 23, 25, 27 etc.).</p>
+        <p>You also gain additional cantrips at level 21 (7) and level 45 (8).</p>
+        <p>You also gain additional Spell Slot at level 21 (5), 31 (6), 41 (7) and level 50 (8).</p>
+        <p>You also gain an additional level of spell slots at level 21 (6th), level 31(7th), and level 41(8th)</p>
+        <h2>Eldritch Invocation Increase</h2>
+        <p>At level 21, the number of eldritch invocation you can know is increased by 4. This increases to 6 at level 30, 8 at level 40, and 10 at level 50. </p>
+        <h2>Charisma Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Charisma scores increase by 2, and your Charisma score also increases by 2.</p>
+        <h2>Eldritch Master Increase</h2>
+        <p>At level 26, you can use eldritch master twice between long rests.</p>
+        <p>At level 30, when you use eldritch master, you also regain spells that you have cast through mystic arcanum.</p>
+        <h2>Mystic Arcanum Increase</h2>
+        <p>At level 40, double the amount of arcanum known at each spell level.</p>
+      markdown: ""
+    _id: QLidxFzggJnK8rk9
+    sort: 1400000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.QLidxFzggJnK8rk9"
+  - name: Wizard
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Spells and Spell Slots</h2>
+        <p>You gain additional cantrips at level 21 (7) and level 45 (8).</p>
+        <h2>Signature Spell Improvement</h2>
+        <p> At level 22, when you cast a signature spell, you can choose one of the following effects to add to it:
+          <ul>
+            <li>Halve the range, area of effect, or spell duration, and double the number of dice used and bonuses added.</li>
+            <li>Double the range, area of effect (if the spell has one), or spell duration, and halve the number of dice used and bonuses added(rounded up).</li>
+            <li>Your spell save DC = 8 + double your proficiency bonus + your spell attack bonus, and halve the dice used and bonuses added.</li>
+            <li>Your spell save DC = 8 + your spellcasting modifier, and double the dice used and bonuses added.</li>
+          </ul>
+        </p>
+        <h2>Arcane Tradition Increase</h2>
+        <p>At level 30, select a second arcane tradition, gaining all the benefits therein.</p>
+        <h2>Spell Mastery Increase</h2>
+        <p>At level 36, you gain mastery over one 3rd and 4th level spell.</p>
+        <h2>Intelligence Score Improvements</h2>
+        <p>Starting at level 26 and each 4th level onward, your maximum for your Intelligence scores increase by 2, and your Intelligence score also increases by 2.</p>
+        <h2>Arcane Recovery Improvement</h2>
+        <p>Starting at level 40 you can also recover spells up to eighth level, instead of up to sixth. This increases to level 9 at level 50.</p>
+      markdown: ""
+    _id: kWdFBE3tsiO0JVL7
+    sort: 1500000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.kWdFBE3tsiO0JVL7"
 ownership:
   default: 0
 folder: null

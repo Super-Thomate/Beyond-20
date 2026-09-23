@@ -9,7 +9,9 @@ const output = fs.createWriteStream(OUTPUT);
 const archive = new ZipArchive({ zlib: { level: 9 } });
 
 output.on("close", () => console.log(`${OUTPUT} written (${archive.pointer()} bytes)`));
-archive.on("error", (err) => { throw err; });
+archive.on("error", (err) => {
+  throw err;
+});
 
 archive.pipe(output);
 for (const file of FILES) {
