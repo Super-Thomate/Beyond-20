@@ -13,6 +13,20 @@
     "verified": "14",
     "maximum": "14"
   },
+  "packs": [
+    {
+      "name": "beyond20-features",
+      "label": "Class Features",
+      "path": "packs/beyond20-features",
+      "type": "Item"
+    },
+    {
+      "name": "beyond20-journal",
+      "label": "Rules",
+      "path": "packs/beyond20-journal",
+      "type": "JournalEntry"
+    }
+  ],
   "relationships": {
     "systems": [
       {

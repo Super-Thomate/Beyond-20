@@ -13,7 +13,6 @@ export default [
       sourceType: "module",
       globals: {
         ...globals.browser,
-        // Globals injectées par le core FoundryVTT
         game: "readonly",
         CONFIG: "readonly",
         Hooks: "readonly",
