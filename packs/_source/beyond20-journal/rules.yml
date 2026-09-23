@@ -1,4 +1,4 @@
-name: "General Rules"
+name: "Rules"
 pages:
   - name: General Rules
     type: text
@@ -170,6 +170,173 @@ pages:
       markdown: ""
     _id: Dr7e0S1pmHEx4mTF
     sort: 200000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.Dr7e0S1pmHEx4mTF"
+  - name: Artificer
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <h2>Additional Spells and Spell Slots</h2>
+        <p>You also gain additional cantrips at level 24 (5), level 28 (6), level 38 (7), and level 42 (8).</p>
+        <p>Due to some limitations, you currently gain spell slots of level 6, 7, 8 and 9, following the general table of spellslots and dividing your level by 2 to determine the number and level of spell slots you have.</p>
+        <h2>Infusion and Infused Item Improvement</h2>
+        <p>You get another known infusion at level 23, 27, 31, 35, 39, 43, and 47</p>
+        <p>You get another infused item at level 21, 26, 31, 36, 41, and 46.</p>
+        <h2>Spell Storing Item Improvement</h2>
+        <p>Your spell-storing item feature can use level three, four, and five spells at level 26, and the feature can be used on any equipment.</p>
+        <p>At level 30 you can use your spell-storing item feature a number of times equal to half your Intelligence score (rounded up).</p>
+        <p>At level 50 you can use your spell-storing item feature an infinite number of times.</p>
+        <h2>Intelligence Score Improvements</h2>
+        Starting at level 26 and each 4th level onward, your maximum for your Intelligence scores increase by 2, and your Intelligence score also increases by 2.
+        <h2>Flash of Genius Improvement</h2>
+        At level 30 whenever you use the Flash of Genius feature you double your intelligence modifier. This changes to triple at level 50.
+      markdown: ""
+    _id: jZa2Kx4KQFUnCMRw
+    sort: 100000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.jZa2Kx4KQFUnCMRw"
+    type: text
+    title:
+      show: true
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <table>
+          <thead>
+            <tr>
+              <th>Level</th>
+              <th>Total Required</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>21</td>
+              <td>410,000</td>
+            </tr>
+            <tr>
+              <td>22</td>
+              <td>470,000</td>
+            </tr>
+            <tr>
+              <td>23</td>
+              <td>530,000</td>
+            </tr>
+            <tr>
+              <td>24</td>
+              <td>600,000</td>
+            </tr>
+            <tr>
+              <td>25</td>
+              <td>670,000</td>
+            </tr>
+            <tr>
+              <td>26</td>
+              <td>750,000</td>
+            </tr>
+            <tr>
+              <td>27</td>
+              <td>830,000</td>
+            </tr>
+            <tr>
+              <td>28</td>
+              <td>920,000</td>
+            </tr>
+            <tr>
+              <td>29</td>
+              <td>1,010,000</td>
+            </tr>
+            <tr>
+              <td>30</td>
+              <td>1,110,000</td>
+            </tr>
+            <tr>
+              <td>31</td>
+              <td>1,210,000</td>
+            </tr>
+            <tr>
+              <td>32</td>
+              <td>1,320,000</td>
+            </tr>
+            <tr>
+              <td>33</td>
+              <td>1,430,000</td>
+            </tr>
+            <tr>
+              <td>34</td>
+              <td>1,550,000</td>
+            </tr>
+            <tr>
+              <td>35</td>
+              <td>1,670,000</td>
+            </tr>
+            <tr>
+              <td>36</td>
+              <td>1,800,000</td>
+            </tr>
+            <tr>
+              <td>37</td>
+              <td>1,930,000</td>
+            </tr>
+            <tr>
+              <td>38</td>
+              <td>2,070,000</td>
+            </tr>
+            <tr>
+              <td>39</td>
+              <td>2,210,000</td>
+            </tr>
+            <tr>
+              <td>40</td>
+              <td>2,360,000</td>
+            </tr>
+            <tr>
+              <td>41</td>
+              <td>2,510,000</td>
+            </tr>
+            <tr>
+              <td>42</td>
+              <td>2,670,000</td>
+            </tr>
+            <tr>
+              <td>43</td>
+              <td>2,830,000</td>
+            </tr>
+            <tr>
+              <td>44</td>
+              <td>3,000,000</td>
+            </tr>
+            <tr>
+              <td>45</td>
+              <td>3,170,000</td>
+            </tr>
+            <tr>
+              <td>46</td>
+              <td>3,350,000</td>
+            </tr>
+            <tr>
+              <td>47</td>
+              <td>3,530,000</td>
+            </tr>
+            <tr>
+              <td>48</td>
+              <td>3,720,000</td>
+            </tr>
+            <tr>
+              <td>49</td>
+              <td>3,910,000</td>
+            </tr>
+            <tr>
+              <td>50</td>
+              <td>4,110,000</td>
+            </tr>
+          </tbody>
+        </table>
+      markdown: ""
+    _id: Dr7e0S1pmHEx4mTF
+    sort: 300000
     _key: "!journal.pages!K0SZivTDzqnRvJq0.Dr7e0S1pmHEx4mTF"
 ownership:
   default: 0
