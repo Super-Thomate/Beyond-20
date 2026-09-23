@@ -1,0 +1,179 @@
+name: "General Rules"
+pages:
+  - name: General Rules
+    type: text
+    title:
+      show: true
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <p>The rules for levels below 21 are still the same. This set of variant rules applies only when characters reach level 21.</p>
+        <p>Level 50 becomes the new maximum character level a player can have. Ability scores now have a maximum of 30.</p>
+        <p>Upon reaching level 21, your proficiency bonus becomes +7, then increases to +8 at level 25, +9 at level 29, +10 at level 33, +11 at level 37, +12 at level 41, +13 at level 45, and +14 at level 49. This does not require any modification as DnD 5e uses a formula with no cap for the proficiency bonus.</p>
+        <p>If a player continues leveling the same class through levels 21 to 49, they gain epic boons at levels 21, 25, 29, 31, 35, 39, 41, 45, and 49, and ability score increases at levels 22, 26, 30, 34, 38, 42, 46, and 50. Any and all ability score improvements give 3 points rather than the traditional 2.</p>
+        <p>Cantrips that deal damage increase by 1 additional damage die at levels 22 (5), 28 (6), 35 (7), 39 (8), 45 (9), and 50 (10).</p>
+        <p>You gain an additional attunement slot at level 30, 40 and 50.</p>
+        <p>If you're a Dragonborn, your breath weapon moves up to 6d6 at 21st level, 7d6 at 26th level, 8d6 at 31st level, 9d6 at 36th level, 10d6 at 41st level, and 11d6 at 46th levels</p>
+        <h2>Partial Ascendance</h2>
+        <p> At level 50 if the the PC stuck to their class throughout all levels they have gathered enough power to be on par with most demigods and gain similar abilities:
+          <ul>
+            <li><strong>Create Avatar</strong> You may create an Avatar of yourself within a one week ritual requiring no components. Only one of these can exist at a time and there needs to be at least one week of rest between creating one. They function like a level 20 player character of the same race, alignment and class as the PC and are directly controlled by the PC with no disadvantages to the PC while controlling the Avatar.</li>
+            <li><strong>Divine Attacks</strong> All attacks ignore resistance and count as magical for the sake of ignoring immunities. Also all damage die with which you deal damage do 1 extra damage per four damage rounded up(d4+1;d8+2;d10+3;d20+5) and your spell attack, spell save and normal attacks gain +5 aswell as anything(ability or spell) that applies effects to creatures(including yourself if you wish) lasts an additional 2 rounds.</li>
+            <li><strong>Partial magic immunity</strong> The PC can choose to not be affected by spells of fifth level or below.</li>
+            <li><strong>Resist mortals</strong> +6 to AC, Saving Throws and Damage Reduction from all Damages;All negative conditions only last a maximum of 1 round on the PC unless they will it otherwise; Immunity to all bludgeoning, piercing and slashing damage from nonmagical sources as well as one damage Immunity and one resistance fitting the character chosen by the DM, the PC doesn't already have.</li>
+          </ul>
+          Finally their stats go to a minimum of 20(if above in the stat no change); they can see the portfolio of other gods and gain truesight within 30 feet(stacks with existing truesight) and receive one portfolio and one ability fitting that portfolio(for example because demigods can have the same portfolios as other gods, magic would get one ability on par with a level 12 spell) according to the DM.
+        </p>
+      markdown: ""
+    _id: nZt4IM1OZQDGmmAY
+    sort: 100000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.nZt4IM1OZQDGmmAY"
+  - name: Experience Points
+    type: text
+    title:
+      show: true
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <table>
+          <thead>
+            <tr>
+              <th>Level</th>
+              <th>Total Required</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>21</td>
+              <td>410,000</td>
+            </tr>
+            <tr>
+              <td>22</td>
+              <td>470,000</td>
+            </tr>
+            <tr>
+              <td>23</td>
+              <td>530,000</td>
+            </tr>
+            <tr>
+              <td>24</td>
+              <td>600,000</td>
+            </tr>
+            <tr>
+              <td>25</td>
+              <td>670,000</td>
+            </tr>
+            <tr>
+              <td>26</td>
+              <td>750,000</td>
+            </tr>
+            <tr>
+              <td>27</td>
+              <td>830,000</td>
+            </tr>
+            <tr>
+              <td>28</td>
+              <td>920,000</td>
+            </tr>
+            <tr>
+              <td>29</td>
+              <td>1,010,000</td>
+            </tr>
+            <tr>
+              <td>30</td>
+              <td>1,110,000</td>
+            </tr>
+            <tr>
+              <td>31</td>
+              <td>1,210,000</td>
+            </tr>
+            <tr>
+              <td>32</td>
+              <td>1,320,000</td>
+            </tr>
+            <tr>
+              <td>33</td>
+              <td>1,430,000</td>
+            </tr>
+            <tr>
+              <td>34</td>
+              <td>1,550,000</td>
+            </tr>
+            <tr>
+              <td>35</td>
+              <td>1,670,000</td>
+            </tr>
+            <tr>
+              <td>36</td>
+              <td>1,800,000</td>
+            </tr>
+            <tr>
+              <td>37</td>
+              <td>1,930,000</td>
+            </tr>
+            <tr>
+              <td>38</td>
+              <td>2,070,000</td>
+            </tr>
+            <tr>
+              <td>39</td>
+              <td>2,210,000</td>
+            </tr>
+            <tr>
+              <td>40</td>
+              <td>2,360,000</td>
+            </tr>
+            <tr>
+              <td>41</td>
+              <td>2,510,000</td>
+            </tr>
+            <tr>
+              <td>42</td>
+              <td>2,670,000</td>
+            </tr>
+            <tr>
+              <td>43</td>
+              <td>2,830,000</td>
+            </tr>
+            <tr>
+              <td>44</td>
+              <td>3,000,000</td>
+            </tr>
+            <tr>
+              <td>45</td>
+              <td>3,170,000</td>
+            </tr>
+            <tr>
+              <td>46</td>
+              <td>3,350,000</td>
+            </tr>
+            <tr>
+              <td>47</td>
+              <td>3,530,000</td>
+            </tr>
+            <tr>
+              <td>48</td>
+              <td>3,720,000</td>
+            </tr>
+            <tr>
+              <td>49</td>
+              <td>3,910,000</td>
+            </tr>
+            <tr>
+              <td>50</td>
+              <td>4,110,000</td>
+            </tr>
+          </tbody>
+        </table>
+      markdown: ""
+    _id: Dr7e0S1pmHEx4mTF
+    sort: 200000
+    _key: "!journal.pages!K0SZivTDzqnRvJq0.Dr7e0S1pmHEx4mTF"
+ownership:
+  default: 0
+folder: null
+sort: 100000
+_id: K0SZivTDzqnRvJq0
+_key: "!journal!K0SZivTDzqnRvJq0"

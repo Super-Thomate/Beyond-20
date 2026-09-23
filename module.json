@@ -27,6 +27,13 @@
       "type": "JournalEntry"
     }
   ],
+  "packFolders": [
+    {
+      "name": "Beyond 20",
+      "sorting": "a",
+      "packs": ["beyond20-features", "beyond20-journal"]
+    }
+  ],
   "relationships": {
     "systems": [
       {
