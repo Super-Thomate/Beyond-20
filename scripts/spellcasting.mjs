@@ -34,9 +34,18 @@ const EXTRA_SPELL_SLOTS = [
   [4, 4, 4, 4, 4, 4, 4, 4, 4], // 50
 ];
 
+const EXTRA_PACT_PROGRESSION = {
+  21: { slots: 5, level: 6 },
+  31: { slots: 6, level: 7 },
+  41: { slots: 7, level: 8 },
+  50: { slots: 8, level: 8 },
+};
+
+const BASE_MAX_LEVEL = 20;
+
 Hooks.on("dnd5e.prepareSpellSlots", (spells, actor, progression) => {
   const level = progression.spell;
-  if (level <= 20) return;
+  if (level <= BASE_MAX_LEVEL) return;
 
   const extra = EXTRA_SPELL_SLOTS[level - 21];
   if (!extra) return;
@@ -50,5 +59,27 @@ Hooks.on("dnd5e.prepareSpellSlots", (spells, actor, progression) => {
     slot.type = "spell";
     slot.label = game.i18n.localize(`DND5E.SPELLCASTING.SLOTS.spell${circle}`);
   }
+  return false;
+});
+
+Hooks.on("dnd5e.preparePactSlots", (spells, actor, progression) => {
+  const level = progression.pact;
+  if (level <= BASE_MAX_LEVEL) return;
+
+  const [, extra] =
+    Object.entries(EXTRA_PACT_PROGRESSION)
+      .reverse()
+      .find(([l]) => Number(l) <= level) ?? [];
+  if (!extra) return;
+
+  const slot = (spells.pact ??= { value: 0 });
+  slot.type = "pact";
+  slot.label = CONFIG.DND5E.spellcasting.pact.label;
+
+  const override = Number.isNumeric(slot.override) ? Math.max(parseInt(slot.override), 0) : null;
+  slot.max = Number.isFinite(override) ? override : extra.slots || 0;
+  slot.level = slot.max ? extra.level : 0;
+  slot.value = Math.clamp(slot.value, 0, slot.max) || 0;
+
   return false;
 });
